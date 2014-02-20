@@ -1,0 +1,4 @@
+copter
+======
+
+Ardupilot configuration
